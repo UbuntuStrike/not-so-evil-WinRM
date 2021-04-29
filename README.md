@@ -10,3 +10,5 @@ gem install -r winrm
 USAGE: 
 
 ./winrm.rb and follow prompts
+
+![alt text](https://github.com/UbuntuStrike/images/blob/main/winrm.png?raw=true)
